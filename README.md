@@ -1,9 +1,8 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20prk's%20github&fontSize=60" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6bell8&show_icons=true&theme=radical)
 
 <a href="https://prkportfolio.netlify.app/html/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=&logoColor=로고색상"/></a>
 
