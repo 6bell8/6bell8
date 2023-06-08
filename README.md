@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=100&text=Welcome&nbsp;jinsung's&nbsp;github&fontColor=FFEEBB&color=99DBF5&fontAlign=50&)
+![header](https://capsule-render.vercel.app/api?type=wave&height=100&text=Welcome&nbsp;jinsung's&nbsp;github&fontColor=FFEEBB&color=99DBF5&fontSize=65&fontAlign=50&)
 
 
 
