@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=200&text=Jinsung's&nbsp;github&desc=Welcome!&descAlignY=25&descAlign=92&fontAlign=70&descSize=25&fontColor=FFEEBB&color=99DBF5&fontSize=65&fontAlign=50&)   
 </div>
 
-
 <div align="right"> 
   
 ## About me
