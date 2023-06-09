@@ -13,8 +13,8 @@
 
 <br/> 
   
-##### 반갑습니다, 프론트엔드를 공부하고 있는 박진성이라고 합니다. <br/> 
-##### 무엇이든 배우려는 자세로 경청하며 임하고 있습니다. <br/> 
+##### 반갑습니다, 프론트엔드를 공부하고 있는 박진성이라고 합니다. 
+##### 무엇이든 배우려는 자세로 경청하며 임하고 있습니다. 
 ##### 실수를 통해 배우며, 반복하지 않으려합니다. 
   <br/>
 </div>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
-  <br/><br/>
+  <br/>
 
   #### Backend   <br/>
  
