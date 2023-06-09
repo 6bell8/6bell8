@@ -44,10 +44,12 @@
   
   <br/>
   
-  ![6bell8's github stats](https://github-readme-stats.vercel.app/api?username=6bell8&show_icons=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6bell8&layout=compact&theme=synthwave)
   
+
   
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6bell8%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6bell8%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://prkportfolio.netlify.app/html/)
 
   
   
@@ -60,7 +62,10 @@
 
 <!--
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=100&text=Welcome&nbsp;jinsung's&nbsp;github&fontColor=FFEEBB&color=99DBF5&fontSize=65&fontAlign=50&)
+(깃허브 상태)![6bell8's github stats](https://github-readme-stats.vercel.app/api?username=6bell8&show_icons=true)
+  
+
+(프로필 배너)![header](https://capsule-render.vercel.app/api?type=wave&height=100&text=Welcome&nbsp;jinsung's&nbsp;github&fontColor=FFEEBB&color=99DBF5&fontSize=65&fontAlign=50&)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlignY=20&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=30&theme=radical)
 
