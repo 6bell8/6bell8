@@ -22,8 +22,6 @@ React 기반 웹 화면 개발, API 인터페이스 설계, 동적노드 개발�
 
 <h2>Tech Stack</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6bell8&layout=compact&theme=synthwave" />
-
 <br/><br/>
 
 <h3>Frontend</h3>
