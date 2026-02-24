@@ -22,8 +22,6 @@ React 기반 웹 화면 개발, API 인터페이스 설계, 동적노드 개발�
 
 <h2>Tech Stack</h2>
 
-<br/><br/>
-
 <h3>Frontend</h3>
 
 <p>
