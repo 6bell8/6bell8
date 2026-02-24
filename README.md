@@ -1,6 +1,8 @@
 <!-- 소개 섹션 (좌측 정렬) -->
 <div align="left">
 
+
+
 <h2>안녕하세요, 프론트엔드와 API 연동 실무를 담당해온 개발자 박진성입니다.</h2>
 
 <sub>
@@ -10,6 +12,15 @@ React 기반 웹 화면 개발, API 인터페이스 설계, 동적노드 개발�
 
 단순히 화면만 만드는 개발자가 아니라, 서비스 운영 흐름과 안정성까지 고려하며 개발하는 것을 중요하게 생각합니다.
 </sub>
+<div align="center">
+  <a href="https://github.com/6bell8">
+    <img
+      src="https://render.gitanimals.org/lines/6bell8?pet-id=1"
+      width="1000"
+      height="120"
+    />
+  </a>
+</div>
 
 </div>
 
@@ -38,8 +49,6 @@ React 기반 웹 화면 개발, API 인터페이스 설계, 동적노드 개발�
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=A569BD&center=true&vCenter=true&width=700&lines=Frontend+%2B+API+Integration+Developer;React+%7C+Next.js+%7C+Dynamic+Node;AICC+Voicebot+%2F+Chatbot+Projects" />
-</p>
+
 
 </div>
