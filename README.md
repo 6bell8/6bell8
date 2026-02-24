@@ -1,10 +1,10 @@
 
 
 
-<div align="right"> 
+<div> 
   
 ## 안녕하세요, 프론트엔드와 API 연동 실무를 담당해온 개발자 박진성입니다.
-
+<sub>
 저는 React 기반 웹 화면 개발과 API 인터페이스 설계, 동적노드 개발을 중심으로 실무를 경험해왔습니다.  
 현재는 AICC(인공지능 컨택센터) 관련 프로젝트에서 보이스봇/챗봇 서비스 구축 및 운영 업무를 수행하며, 고객사 요구사항을 반영한 기능 구현과 API 연동 작업을 담당하고 있습니다.
 
@@ -19,10 +19,11 @@
 - 협업 부서(기획/운영/고객사)와의 커뮤니케이션 및 일정 대응
 
 운영 관점의 안정성과 개발 관점의 확장성을 함께 고려하는 개발자로 성장하고 있습니다.
+</sub>
   <br/>
 </div>
 
-<div align="right"> 
+<div> 
 
   ## Tech stack
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6bell8&layout=compact&theme=synthwave)
