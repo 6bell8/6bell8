@@ -46,6 +46,7 @@ React 기반 웹 화면 개발, API 인터페이스 설계, 동적노드 개발�
 <h3>Backend</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/JSP-FF8C00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
