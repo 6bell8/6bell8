@@ -12,9 +12,9 @@ AI 보이스봇·챗봇 서비스의 고객사 도입 과정에서 요구사항�
 
 또한 AICC 운영 그룹웨어를 포함한 웹페이지 개발과 운영 유지보수를 담당하며, 서비스 운영에 필요한 기능 개선과 데이터 연동 흐름을 함께 관리하고 있습니다.<br/><br/>
 <br/>
+URL: https://aicc-management-console.vercel.app/dashboard
 <br/>
-https://aicc-management-console.vercel.app/dashboard
-
+<br/>
 </h3>
 
 <div align="center">
