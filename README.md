@@ -8,11 +8,11 @@
 <br/>
 KTcs AICC(인공지능 컨택센터)에서 보이스봇/챗봇 서비스 구축 및 운영 업무를 수행하며,<br/><br/>
 
-AI 보이스봇·챗봇 서비스의 고객사 도입 과정에서 요구사항을 분석하고 API 연동 작업을 수행하고 있습니다.<br/><br/>
+AI 보이스봇·챗봇 서비스의 고객사 도입 과정에서 요구사항을 분석하고 API 연동 작업을 수행하고 있습니다.<br/>
 
 또한 AICC 운영 그룹웨어를 포함한 웹페이지 개발과 운영 유지보수를 담당하며, 서비스 운영에 필요한 기능 개선과 데이터 연동 흐름을 함께 관리하고 있습니다.<br/><br/>
 <br/>
-URL: https://aicc-management-console.vercel.app/dashboard
+URL: [https://aicc-management-console.vercel.app/dashboard](https://aicc-management-console.vercel.app/login)
 <br/>
 <br/>
 </h3>
